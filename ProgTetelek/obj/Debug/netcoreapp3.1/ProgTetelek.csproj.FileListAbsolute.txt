@@ -1,0 +1,13 @@
+C:\Users\A\Desktop\ProgTetelek\ProgTetelek\bin\Debug\netcoreapp3.1\ProgTetelek.exe
+C:\Users\A\Desktop\ProgTetelek\ProgTetelek\bin\Debug\netcoreapp3.1\ProgTetelek.deps.json
+C:\Users\A\Desktop\ProgTetelek\ProgTetelek\bin\Debug\netcoreapp3.1\ProgTetelek.runtimeconfig.json
+C:\Users\A\Desktop\ProgTetelek\ProgTetelek\bin\Debug\netcoreapp3.1\ProgTetelek.runtimeconfig.dev.json
+C:\Users\A\Desktop\ProgTetelek\ProgTetelek\bin\Debug\netcoreapp3.1\ProgTetelek.dll
+C:\Users\A\Desktop\ProgTetelek\ProgTetelek\bin\Debug\netcoreapp3.1\ProgTetelek.pdb
+C:\Users\A\Desktop\ProgTetelek\ProgTetelek\obj\Debug\netcoreapp3.1\ProgTetelek.csprojAssemblyReference.cache
+C:\Users\A\Desktop\ProgTetelek\ProgTetelek\obj\Debug\netcoreapp3.1\ProgTetelek.AssemblyInfoInputs.cache
+C:\Users\A\Desktop\ProgTetelek\ProgTetelek\obj\Debug\netcoreapp3.1\ProgTetelek.AssemblyInfo.cs
+C:\Users\A\Desktop\ProgTetelek\ProgTetelek\obj\Debug\netcoreapp3.1\ProgTetelek.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\ProgTetelek\ProgTetelek\obj\Debug\netcoreapp3.1\ProgTetelek.dll
+C:\Users\A\Desktop\ProgTetelek\ProgTetelek\obj\Debug\netcoreapp3.1\ProgTetelek.pdb
+C:\Users\A\Desktop\ProgTetelek\ProgTetelek\obj\Debug\netcoreapp3.1\ProgTetelek.genruntimeconfig.cache
